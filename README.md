@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @HelcioMSFilho, and I have over 20 years of experience in software development. I hold a Bachelor's degree in Computer Science and have built my career working with PHP, JavaScript, Solidity, and more recently, Python. Throughout my journey, I have gained extensive expertise in various technologies and industries.
+- 👀 I started with PHP and JavaScript, which remain integral to my daily work. As technology evolved, I expanded my skill set to include Solidity for blockchain smart contracts and Python for automation, data analysis, and machine learning.
+- 🌱 My specialization in Cloud Computing includes significant experience with AWS, Oracle Cloud, and Google Cloud. These skills enable me to create scalable and resilient solutions for businesses of all sizes. Cloud computing has become essential in modern development, and I continuously seek innovative ways to leverage these technologies for maximum efficiency.
+- 💞️ I have developed systems for the telecommunications and mobile phone industries, where reliability and scalability are crucial. I have also worked on medical prescription systems, enhancing efficiency and safety in healthcare. Additionally, I have contributed to banking systems, ensuring security and compliance with stringent regulatory requirements. Solving complex problems and creating impactful solutions is what I find most rewarding about my work. Whether optimizing processes, improving user experiences, or ensuring data security, each project is an opportunity to apply my skills and learn something new.
+- 😄 I am committed to continuous learning, staying updated on the latest trends and technologies by attending conferences, taking courses, and participating in discussion groups. I believe that ongoing education is vital in the ever-evolving tech field. Sharing knowledge is also a passion of mine, and I actively seek opportunities to mentor new developers and contribute to the development community through blogs, talks, and open-source projects.
+- 📫 On my GitHub, you will find a selection of my work, including personal projects, contributions to open-source projects, and code samples that demonstrate my skills and interests. I am always open to new opportunities and collaborations, so feel free to reach out if you have an interesting project or just want to discuss technology.
+
+Thank you for visiting my profile, and I look forward to connecting with you soon !
+
+<!---
+HelcioMSFilho/HelcioMSFilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
